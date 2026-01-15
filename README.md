@@ -9,7 +9,7 @@
 
 
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"/>
-<img align="left" alt="Dotnet" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" />
+<img align="left" alt="Dotnet" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" />
 <img align="left" alt="SQLServer" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg"/>
 <img align="left" alt="MySql" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"/>
 <img align="left" alt="Entity" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/entityframeworkcore/entityframeworkcore-original.svg"/>
